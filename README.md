@@ -1,4 +1,3 @@
-# Team-1-UI
 # SpelCheck 
 # Team-1-UI 
 
